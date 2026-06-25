@@ -1,0 +1,2 @@
+# otcvisionai
+ai trading bot
